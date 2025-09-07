@@ -1,26 +1,30 @@
-## Hai 👋
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q0eG00MmR0bDl4NW9xMjMybGZneHcxbDR5ZXBlb3JqcmV1anQwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif"  />
+</div>
 
-![banner](img/github-header-banner.png)
+<div align="center">
+  <h6> Find me at </h6>
 
-##### Tool Visualization
+![https://www.linkedin.com/in/walkersimanjuntak/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=walkervalentinussimanjuntak@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
+
+<h6> 📊 Visualization Tool </h6>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
-##### Tools Data Science
+<h6> 👨🏻‍💻 Tech Stacks </h6>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,docker,mysql,java&theme=light)](https://skillicons.dev)
 
-<!--
-**bluga404/bluga404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h6> 💻 IDE & OS </h6>
 
-Here are some ideas to get you started:
+[![My IDE](https://skillicons.dev/icons?i=idea,vscode,windows,ubuntu&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h6> My GitHub Stats: </h6>
+
+![](https://nirzak-streak-stats.vercel.app/?user=bluga404&theme=light&hide_border=false)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

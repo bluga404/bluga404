@@ -19,12 +19,3 @@
 <h6> 💻 IDE & OS </h6>
 
 [![My IDE](https://skillicons.dev/icons?i=idea,vscode,windows,ubuntu&theme=light)](https://skillicons.dev)
-
-<h6> My GitHub Stats: </h6>
-
-![](https://nirzak-streak-stats.vercel.app/?user=bluga404&theme=light&hide_border=false)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-

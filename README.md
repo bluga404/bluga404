@@ -14,7 +14,7 @@
 
 <h6> 👨🏻‍💻 Tech Stacks </h6>
 
-[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,docker,laravel,mysql,jav&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,docker,laravel,mysql,java,php&theme=light)](https://skillicons.dev)
 
 <h6> 💻 IDE & OS </h6>
 

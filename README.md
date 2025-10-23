@@ -5,9 +5,9 @@ I am Walker Valentinus Simanjuntak, rigth now i am working at Institut Teknologi
 Find me at
 <br><br>
 
-![https://www.linkedin.com/in/walkersimanjuntak/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-![https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=walkervalentinussimanjuntak@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://instagram.com/walkervalentinuss](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walkersimanjuntak/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=walkervalentinussimanjuntak@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/walkervalentinuss)
 </div>
 <br><br>
 

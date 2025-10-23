@@ -1,21 +1,22 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q0eG00MmR0bDl4NW9xMjMybGZneHcxbDR5ZXBlb3JqcmV1anQwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif"  />
-</div>
+# 🦾 Horas Github!
+I am Walker Valentinus Simanjuntak, rigth now i am working at Institut Teknologi Del as Teaching Assistant. For this semester 25/26, i work closely with recommender systems, web development, and system security lecture. I'm always open to collaboration on exciting projects.<br><br>While working, I do not forget to always sharpening my skill in things i like the most ```machine learning and data analysis```.
 
 <div align="center">
-  <h6> Find me at </h6>
+Find me at
+<br><br>
 
-![https://www.linkedin.com/in/walkersimanjuntak/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=walkervalentinussimanjuntak@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![https://www.linkedin.com/in/walkersimanjuntak/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+![https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=walkervalentinussimanjuntak@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![https://instagram.com/walkervalentinuss](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </div>
+<br><br>
 
-<h6> 📊 Visualization Tool </h6>
+# 👨🏻‍💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,html,css,js,ubuntu,windows,docker,laravel,mysql,java,php&theme=light)](https://skillicons.dev)
+<br><br>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=bluga404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bluga404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h6> 👨🏻‍💻 Tech Stacks </h6>
-
-[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,docker,laravel,mysql,java,php&theme=light)](https://skillicons.dev)
-
-<h6> 💻 IDE & OS </h6>
-
-[![My IDE](https://skillicons.dev/icons?i=idea,vscode,windows,ubuntu&theme=light)](https://skillicons.dev)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

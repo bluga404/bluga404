@@ -15,7 +15,4 @@ Find me at
 [![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,html,css,js,ubuntu,windows,docker,laravel,mysql,java,php&theme=light)](https://skillicons.dev)
 <br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bluga404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

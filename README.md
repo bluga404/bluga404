@@ -12,7 +12,7 @@ Find me at
 <br><br>
 
 # 👨🏻‍💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,html,css,js,ubuntu,windows,docker,laravel,mysqlp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,pytorch,html,css,js,docker,laravel,mysqlp&theme=light)](https://skillicons.dev)
 <br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 🦾 Horas Github!
-I am Walker Valentinus Simanjuntak, rigth now i am gaining experience at Apple Developer Academy @ IL as Cohort 7. I will work closely with recommender systems, web development, android development, and muc more to come. I'm always open to collaboration on exciting projects.<br><br>While working, I do not forget to always sharpening my skill in things i like the most ```machine learning and data analysis```.
+I am Walker Valentinus Simanjuntak, rigth now i am gaining experience as an iOS Developer at Apple Developer Academy @ IL as Cohort 7. I will work closely with Swift, SwiftUI, Data Persistence, and many more. I'm always open to collaboration on exciting projects.<br><br>While working, I do not forget to always sharpening my skill in things i like the most ```machine learning and data analysis```.
 
 <div align="center">
 Find me at
